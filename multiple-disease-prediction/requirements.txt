@@ -1,0 +1,10 @@
+flask
+flask_sqlalchemy
+flask_login
+werkzeug
+joblib
+numpy
+pandas
+scikit-learn
+tensorflow
+#chart.js     note: this is optional; we include Chart.js via CDN in template
